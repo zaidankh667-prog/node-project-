@@ -6,7 +6,7 @@ This guide will help you deploy the portfolio to Heroku using different methods.
 
 The easiest way to deploy this portfolio to Heroku is using the one-click deploy button:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asma019/NodeJs-Portfolio-Mehedi-Hasan)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan)
 
 ### After One-Click Deployment:
 
@@ -262,9 +262,8 @@ If you encounter issues:
 1. Check the [Heroku Status](https://status.heroku.com/)
 2. Review [Heroku Logs](https://devcenter.heroku.com/articles/logging)
 3. Visit [Heroku Dev Center](https://devcenter.heroku.com/)
-4. Open an issue on [GitHub](https://github.com/asma019/NodeJs-Portfolio-Mehedi-Hasan/issues)
+4. Open an issue on [GitHub](https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan/issues)
 
 ---
 
 **Happy Deploying! 🚀**
-

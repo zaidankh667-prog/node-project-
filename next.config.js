@@ -1,3 +1,5 @@
+const path = require('path');
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   /* Optimization settings for Vercel, Heroku, and other platforms */
@@ -30,6 +32,7 @@ const nextConfig = {
   // Heroku-specific optimizations (only when deploying to Heroku)
   // Vercel and other platforms ignore this
   output: process.env.HEROKU ? 'standalone' : undefined,
+  outputFileTracingRoot: path.join(__dirname),
 };
 
 module.exports = nextConfig; 

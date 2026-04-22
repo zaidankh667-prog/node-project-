@@ -4,7 +4,7 @@ Allow: /
 Disallow: /test-og
 
 # Host
-Host: https://mehedims.com
+Host: https://yourwebsite.com
 
 # Sitemaps
-Sitemap: https://mehedims.com/sitemap.xml
+Sitemap: https://yourwebsite.com/sitemap.xml

@@ -1,4 +1,4 @@
-# Mehedi Hasan
+# Zaidan Khan
 
 Freelance Web Developer & WordPress Specialist
 

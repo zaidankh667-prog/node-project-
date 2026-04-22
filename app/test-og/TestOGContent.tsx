@@ -62,18 +62,18 @@ export default function TestOGContent() {
             </h2>
             <div className="bg-gray-100 dark:bg-gray-800 p-3 rounded overflow-x-auto">
               <pre className="text-xs text-gray-800 dark:text-gray-300">
-{`<meta property="og:title" content="Mehedi Hasan | Freelancer And Web Developer From Bangladesh">
+{`<meta property="og:title" content="Zaidan Khan | Freelancer And Web Developer From Bangladesh">
 <meta property="og:description" content="Freelance web developer with 3+ years of experience creating responsive, user-friendly websites and web applications.">
-<meta property="og:image" content="https://mehedims.com/images/socialshare.png">
-<meta property="og:url" content="https://mehedims.com">
+<meta property="og:image" content="https://yourwebsite.com/images/socialshare.png">
+<meta property="og:url" content="https://yourwebsite.com">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Mehedi Hasan | Freelancer And Web Developer From Bangladesh">
+<meta property="og:site_name" content="Zaidan Khan | Freelancer And Web Developer From Bangladesh">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mehedi Hasan | Freelancer And Web Developer From Bangladesh">
+<meta name="twitter:title" content="Zaidan Khan | Freelancer And Web Developer From Bangladesh">
 <meta name="twitter:description" content="Freelance web developer with 3+ years of experience creating responsive, user-friendly websites and web applications.">
-<meta name="twitter:image" content="https://mehedims.com/images/socialshare.png">
-<meta name="twitter:creator" content="@mehedihasan">`}
+<meta name="twitter:image" content="https://yourwebsite.com/images/socialshare.png">
+<meta name="twitter:creator" content="@zaidankhan">`}
               </pre>
             </div>
           </div>

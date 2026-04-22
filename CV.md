@@ -1,13 +1,13 @@
-# Mehedi Hasan
+# Zaidan Khan
 
 Freelance Web Developer & WordPress Specialist
 
 <div class="contact-info">
-- 📧 hello@mehedims.com
-- 📱 +880 1957 594446
-- 📍 Khulna, Bangladesh
-- 🌐 [mehedims.com](https://mehedims.com)
-- 💻 [GitHub](https://github.com/asma019)
+- hello@zaidan.com
+- +880 1957 594446
+- Khulna, Bangladesh
+- [yourwebsite.com](https://yourwebsite.com)
+- [GitHub](https://github.com/asma019)
 </div>
 
 ## Professional Summary
@@ -115,4 +115,4 @@ A passionate freelance web developer with 3+ years of experience in creating res
 
 ---
 
-*This CV is available in both digital and print formats. For the latest version, please visit my portfolio website.* 
+*This CV is available in both digital and print formats. For the latest version, please visit my portfolio website.*

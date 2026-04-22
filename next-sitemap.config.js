@@ -1,11 +1,13 @@
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://yourwebsite.com';
+
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://mehedims.com',
+  siteUrl,
   generateRobotsTxt: true,
   exclude: ['/test-og'],
   robotsTxtOptions: {
     additionalSitemaps: [
-      'https://mehedims.com/sitemap.xml',
+      `${siteUrl}/sitemap.xml`,
     ],
     policies: [
       {

@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "next-themes";
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://yourwebsite.com";
+
 // Optimize font loading
 const inter = Inter({ 
   subsets: ["latin"],
@@ -17,7 +19,7 @@ export const metadata: Metadata = {
   keywords: ["Zaidan Khan", "Web Developer", "Freelance Developer", "Portfolio", "Frontend", "Backend", "HTML", "CSS", "JavaScript", "TypeScript", "Node.js", "Python", "Express", "Java", "MySQL"],
   authors: [{ name: "Zaidan Khan", url: "https://github.com/username/" }],
   creator: "Zaidan Khan",
-  metadataBase: new URL("https://yourwebsite.com"),
+  metadataBase: new URL(siteUrl),
   alternates: {
     canonical: '/',
   },
@@ -36,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://yourwebsite.com",
+    url: siteUrl,
     title: "Zaidan Khan | Freelancer And Web Developer",
     description: "Freelance web developer with 3+ years of experience creating responsive, user-friendly websites and web applications.",
     siteName: "Zaidan Khan | Freelancer And Web Developer",
@@ -66,7 +68,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="canonical" href="https://mehedims.com" />
+        <link rel="canonical" href={siteUrl} />
         <link rel="manifest" href="/manifest.json" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
 

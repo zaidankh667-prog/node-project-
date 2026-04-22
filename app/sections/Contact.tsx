@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { FiMail, FiPhone, FiMapPin, FiSend, FiArrowRight, FiCheck, FiAlertCircle } from "react-icons/fi";
 
 const Contact = () => {
-  const formName = "Zaidan ZK"; // Form name to keep it consistent with the API
+  const formName = "ZaidanKhan"; // Keep consistent with the API email subject/source
   
   const [formData, setFormData] = useState({
     name: "",

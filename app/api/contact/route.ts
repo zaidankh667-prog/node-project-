@@ -5,7 +5,7 @@ export async function POST(request: Request) {
   try {
     const body = await request.json();
     const { name, email, subject, message } = body;
-    const formName = "MehediMS"; // Adding the form name
+    const formName = "ZaidanKhan"; // Adding the form name
 
     // Validate form inputs
     if (!name || !email || !subject || !message) {
@@ -92,7 +92,7 @@ ${message}
           </div>
         </td>
         <td style="padding-left: 15px; text-align: left;">
-          <div style="font-size: 18px; font-weight: bold; color: #333;">Mehedi Hasan</div>
+          <div style="font-size: 18px; font-weight: bold; color: #333;">Zaidan Khan</div>
           <div style="font-size: 12px; color: #666;">Web Developer</div>
         </td>
       </tr>
