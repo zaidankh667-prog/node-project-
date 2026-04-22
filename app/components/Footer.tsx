@@ -28,7 +28,7 @@ const Footer = () => {
             </p>
             <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-4">
               <a
-                href="#"
+                href="https://github.com/zaidankh667-prog"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center text-gray-400 hover:bg-blue-600 hover:text-white transition-colors duration-300"
@@ -91,7 +91,7 @@ const Footer = () => {
                   Contact
                 </Link>
                 <a 
-                  href="" 
+                  href="https://github.com/zaidankh667-prog/node-project-" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors flex items-center"
@@ -113,7 +113,7 @@ const Footer = () => {
               </Link>
             </p>
             <a 
-              href="https://github.com/username/portfolio-zaidan-khan" 
+              href="https://github.com/zaidankh667-prog/node-project-" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-xs flex items-center gap-2 text-gray-400 hover:text-white transition-colors"

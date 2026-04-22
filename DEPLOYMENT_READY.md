@@ -10,7 +10,7 @@ Your portfolio is now **fully optimized** and **ready for one-click Heroku deplo
 
 ### Click This Button:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zaidankh667-prog/node-project-)
 
 ### What Happens Next:
 ```

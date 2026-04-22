@@ -1,7 +1,7 @@
 {
   "name": "Portfolio - Zaidan Khan",
   "description": "A modern, performance-optimized portfolio website built with Next.js and Tailwind CSS",
-  "repository": "https://github.com/username/portfolio-zaidan-khan",
+  "repository": "https://github.com/zaidankh667-prog/node-project-",
   "logo": "https://yourwebsite.com/icons/icon-192x192.png",
   "keywords": [
     "portfolio",
@@ -66,4 +66,3 @@
   "stack": "heroku-22",
   "addons": []
 }
-

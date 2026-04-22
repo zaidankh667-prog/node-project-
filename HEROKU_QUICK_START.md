@@ -6,7 +6,7 @@ Get your portfolio deployed to Heroku in under 5 minutes! 🚀
 
 **Click this button:**
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zaidankh667-prog/node-project-)
 
 **That's it!** Just:
 1. Login to Heroku (or create a free account)
@@ -251,7 +251,7 @@ After deployment:
 - **Detailed Guide:** [HEROKU_DEPLOYMENT.md](./HEROKU_DEPLOYMENT.md)
 - **Compare Platforms:** [DEPLOYMENT_COMPARISON.md](./DEPLOYMENT_COMPARISON.md)
 - **Heroku Docs:** https://devcenter.heroku.com/
-- **GitHub Issues:** https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan/issues
+- **GitHub Issues:** https://github.com/zaidankh667-prog/node-project-/issues
 
 ---
 

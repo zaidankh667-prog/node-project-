@@ -2,7 +2,7 @@
 
 A modern, performance-optimized portfolio website built with Next.js and Tailwind CSS, designed to showcase a web developer's work and skills with a seamless user experience.
 
-[![GitHub stars](https://img.shields.io/github/stars/asma019/NodeJs-Portfolio-Zaidan-Khan?style=social)](https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan/stargazers) [![Latest Release](https://img.shields.io/github/v/release/asma019/NodeJs-Portfolio-Zaidan-Khan?style=flat-square)](https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan/releases/tag/v)
+[![GitHub stars](https://img.shields.io/github/stars/zaidankh667-prog/node-project-?style=social)](https://github.com/zaidankh667-prog/node-project-/stargazers) [![Latest Release](https://img.shields.io/github/v/release/zaidankh667-prog/node-project-?style=flat-square)](https://github.com/zaidankh667-prog/node-project-/releases/tag/v)
 
 ![Portfolio Preview](/public/images/socialshare.png)
 
@@ -64,7 +64,7 @@ A modern, performance-optimized portfolio website built with Next.js and Tailwin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan.git
+   git clone https://github.com/zaidankh667-prog/node-project-.git
    cd NodeJs-Portfolio-Zaidan-Khan
    ```
 
@@ -140,7 +140,7 @@ For production, set these environment variables in your hosting platform.
 
 Deploy to Heroku with a single click:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zaidankh667-prog/node-project-)
 
 **Steps:**
 1. Click the button above
@@ -164,7 +164,7 @@ Deploy to Heroku with a single click:
 
 This project is also optimized for [Vercel](https://vercel.com/), which offers the simplest deployment experience for Next.js.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zaidankh667-prog/node-project-)
 
 **Steps:**
 1. Push your code to a GitHub repository
@@ -424,7 +424,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📦 Latest Release
 
-Check out the [latest release](https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan/releases/tag/v) for the most up-to-date version.
+Check out the [latest release](https://github.com/zaidankh667-prog/node-project-/releases/tag/v) for the most up-to-date version.
 
 ### Recent Updates
 - ✨ Added Heroku one-click deployment support
@@ -461,6 +461,6 @@ The PDF will be generated with modern styling including:
 
 ---
 
-⭐ **If you find this project useful, please consider [giving it a star on GitHub](https://github.com/asma019/NodeJs-Portfolio-Zaidan-Khan)!** ⭐
+⭐ **If you find this project useful, please consider [giving it a star on GitHub](https://github.com/zaidankh667-prog/node-project-)!** ⭐
 
-Built with ❤️ by [Zaidan Khan](https://github.com/asma019)
+Built with ❤️ by [Zaidan Khan](https://github.com/zaidankh667-prog)

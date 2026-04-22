@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Zaidan Khan | Freelancer And Web Developer",
   description: "Freelance web developer with 3+ years of experience creating responsive, user-friendly websites and web applications.",
   keywords: ["Zaidan Khan", "Web Developer", "Freelance Developer", "Portfolio", "Frontend", "Backend", "HTML", "CSS", "JavaScript", "TypeScript", "Node.js", "Python", "Express", "Java", "MySQL"],
-  authors: [{ name: "Zaidan Khan", url: "https://github.com/username/" }],
+  authors: [{ name: "Zaidan Khan", url: "https://github.com/zaidankh667-prog" }],
   creator: "Zaidan Khan",
   metadataBase: new URL(siteUrl),
   alternates: {

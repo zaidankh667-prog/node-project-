@@ -7,7 +7,7 @@ Freelance Web Developer & WordPress Specialist
 - +880 1957 594446
 - Khulna, Bangladesh
 - [yourwebsite.com](https://yourwebsite.com)
-- [GitHub](https://github.com/asma019)
+- [GitHub](https://github.com/zaidankh667-prog)
 </div>
 
 ## Professional Summary

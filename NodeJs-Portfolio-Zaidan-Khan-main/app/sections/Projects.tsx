@@ -23,7 +23,7 @@ const Projects = () => {
       description: "Professional tool suite for developers and digital marketers including User Agent Generator, Fake Name Generator, and Address Lookup with API integration and premium features.",
       image: "/images/placeholder-project.svg",
       imageAlt: "BD Tools - Developer Tools Platform Homepage",
-      github: "https://github.com/asma019/bdtools-project",
+      github: "https://github.com/zaidankh667-prog/node-project-",
       demo: "https://bdtools.cc/",
       category: "tools",
       tags: ["React", "API Integration", "Developer Tools", "Premium"],
@@ -288,7 +288,7 @@ const Projects = () => {
           className="flex justify-center mt-12"
         >
           <a 
-            href="https://github.com/asma019" 
+            href="https://github.com/zaidankh667-prog" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-700 hover:to-blue-600 text-white font-medium rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
