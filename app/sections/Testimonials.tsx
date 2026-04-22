@@ -18,7 +18,7 @@ const Testimonials = () => {
       position: "Marketing Director",
       company: "CreativeMinds Inc.",
       image: "/images/testimonial1.jpg",
-      text: "Mehedi delivered exceptional work for our website redesign. His attention to detail and technical expertise exceeded our expectations. The website is not only visually appealing but also performs excellently across all devices.",
+      text: "Zaidan delivered exceptional work for our website redesign. His attention to detail and technical expertise exceeded our expectations. The website is not only visually appealing but also performs excellently across all devices.",
       rating: 5,
     },
     {
@@ -27,7 +27,7 @@ const Testimonials = () => {
       position: "CEO",
       company: "Tech Innovate",
       image: "/images/testimonial2.jpg",
-      text: "Working with Mehedi was a great experience. He understood our requirements perfectly and delivered a solution that perfectly matched our vision. His communication throughout the project was excellent.",
+      text: "Working with Zaidan was a great experience. He understood our requirements perfectly and delivered a solution that perfectly matched our vision. His communication throughout the project was excellent.",
       rating: 5,
     },
     {
@@ -36,7 +36,7 @@ const Testimonials = () => {
       position: "Product Manager",
       company: "Digital Solutions",
       image: "/images/testimonial3.jpg",
-      text: "Mehedi is a talented developer who consistently delivers high-quality work. He helped us develop a complex web application with multiple integrations, and the result was exactly what we needed.",
+      text: "Zaidan is a talented developer who consistently delivers high-quality work. He helped us develop a complex web application with multiple integrations, and the result was exactly what we needed.",
       rating: 4,
     },
     {
@@ -45,7 +45,7 @@ const Testimonials = () => {
       position: "E-commerce Entrepreneur",
       company: "ShopNow",
       image: "/images/testimonial4.jpg",
-      text: "We hired Mehedi to develop our e-commerce platform, and he delivered an outstanding result. His technical skills and problem-solving abilities made our project a success. Highly recommended!",
+      text: "We hired Zaidan to develop our e-commerce platform, and he delivered an outstanding result. His technical skills and problem-solving abilities made our project a success. Highly recommended!",
       rating: 5,
     },
   ];
