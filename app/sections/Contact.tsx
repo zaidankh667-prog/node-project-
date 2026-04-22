@@ -160,7 +160,7 @@ const Contact = () => {
               </div>
               <div className="flex space-x-4">
                 <a
-                  href=""
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="h-12 w-12 rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 shadow-sm flex items-center justify-center text-gray-700 dark:text-gray-300 hover:border-blue-500 hover:text-blue-600 dark:hover:text-blue-400 transition-all hover:-translate-y-1"
