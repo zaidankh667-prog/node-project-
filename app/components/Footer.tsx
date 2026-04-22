@@ -50,15 +50,12 @@ const Footer = () => {
               >
                 <FiPhone size={18} />
               </a>
-              <a
-                href=""
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center text-gray-400 hover:bg-blue-600 hover:text-white transition-colors duration-300"
+              <span
+                className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center text-gray-400 cursor-default"
                 aria-label="Location"
               >
                 <FiMapPin size={18} />
-              </a>
+              </span>
             </div>
           </div>
           
