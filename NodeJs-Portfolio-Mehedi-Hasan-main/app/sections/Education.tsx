@@ -7,7 +7,7 @@ const Education = () => {
   const educationHistory = [
     {
       degree: "Diploma in Engineering",
-      institution: "Mangrove Institute of Science and Technology",
+      institution: "Aptech Learning Education ",
       period: "2023 - 2027 (Expected)",
       description: "Currently pursuing a Diploma in Engineering with a focus on technological innovations and practical applications.",
     },
