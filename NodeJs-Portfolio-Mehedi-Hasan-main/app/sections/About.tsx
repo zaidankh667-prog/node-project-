@@ -108,7 +108,7 @@ const About = () => {
                 transition={{ duration: 0.5, delay: 0.2 }}
                 className="paragraph text-gray-600 dark:text-gray-400 mb-6 leading-relaxed relative z-10"
               >
-                Currently studying towards a Diploma in Engineering at Mangrove Institute of Science and Technology (2023-2027), 
+                Currently studying towards a Diploma in Engineering at Aptech Institute of Science and Technology (2023-2027), 
                 I&apos;m constantly improving my technical skills while working professionally as a freelancer.
               </motion.p>
               
